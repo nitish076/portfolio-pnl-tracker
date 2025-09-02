@@ -1,0 +1,10 @@
+# IDE - IntelliJ/WebStorm
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
+
+node_modules/
+
